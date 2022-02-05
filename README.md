@@ -1,4 +1,4 @@
-# HeuristicCLLabeling
+# Heuristic Coronary Centerline Labeling
 
 Disclaimer: The methods and information here are based on research and are not commercially available.
 Implementation of the heuristic centerline labeling described in https://openreview.net/pdf?id=vVPMifME8b 
